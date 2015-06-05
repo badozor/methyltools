@@ -15,6 +15,6 @@ This R package contains additional tools for the analysis of methylation data (I
   * License: GPL (>= 2)
   * URL: http://lausanne.isb-sib.ch/~pbady/Rpackages.html
 
-Documentation in preparation is available [here](https://code.google.com/p/methyltools/source/browse/#git%2Ftrunk%2FRdoc).
+Documentation in preparation is available [here](https://github.com/badozor/methyltools/tree/master/trunk/Rdoc).
 
 Warning! The R package mgmtstp27 is still in development and the documentation need some corrections (e.g. language, etc ...).
