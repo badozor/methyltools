@@ -19,7 +19,7 @@ This R package contains additional tools for the analysis of methylation data (I
 
 Documentation in preparation is available [here](https://github.com/badozor/methyltools/tree/master/trunk/Rdoc).
 
-## licence ##
+## Licence ##
 GPL version 2 or newer
 ```
 This program is free software; you can redistribute it and/or
