@@ -1,3 +1,5 @@
+
+## Description ##
 This R package contains additional tools for the analysis of methylation data (Infinium HM-27K and HM-450K).
 
 
@@ -17,4 +19,16 @@ This R package contains additional tools for the analysis of methylation data (I
 
 Documentation in preparation is available [here](https://github.com/badozor/methyltools/tree/master/trunk/Rdoc).
 
-Warning! The R package mgmtstp27 is still in development and the documentation need some corrections (e.g. language, etc ...).
+## licence ##
+GPL version 2 or newer
+```
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+'''
