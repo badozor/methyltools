@@ -11,7 +11,7 @@ This R package contains additional tools for the analysis of methylation data (I
   * Revision: 2015-11-26
   * Author: Pierre Bady <pierre.bady@unil.ch>
   * Maintainer: Pierre Bady <pierre.bady@unil.ch>
-  * Depends: R (>= 3.1.1), CGHcall, CGHbase, minfi,preprocessCore, org.Hs.eg.db, TxDb.Hsapiens.UCSC.hg19.knownGene, lumi,mixtools, snowfall,RPMM,ade4
+  * Depends: R (>= 3.2.2), CGHcall, CGHbase, minfi,preprocessCore, org.Hs.eg.db, TxDb.Hsapiens.UCSC.hg19.knownGene, lumi,mixtools, snowfall,RPMM,ade4
   * Suggests: boot
   * Description: Additional tools for the analysis of methylation data
   * License: GPL (>= 2)
