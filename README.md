@@ -6,9 +6,9 @@ This R package contains additional tools for the analysis of methylation data (I
   * Package: methyltools
   * Type: Package
   * Title: Additional tools for the analysis of methylation data
-  * Version: 0.6
+  * Version: 0.7
   * Date: 2014-06-23
-  * Revision: 2015-11-26
+  * Revision: 2016-02-11
   * Author: Pierre Bady <pierre.bady@unil.ch>
   * Maintainer: Pierre Bady <pierre.bady@unil.ch>
   * Depends: R (>= 3.2.2), CGHcall, CGHbase, minfi,preprocessCore, org.Hs.eg.db, TxDb.Hsapiens.UCSC.hg19.knownGene, lumi,mixtools, snowfall,RPMM,ade4
