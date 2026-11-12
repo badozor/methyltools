@@ -1,3 +1,5 @@
+# R package methyltools
+
 <img src="logo/methyltools_hex.png" align="right" width="130" alt="methyltools logo"/>
 
 ## Description ##
