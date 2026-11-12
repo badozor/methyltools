@@ -1,3 +1,4 @@
+<img src="logo/methyltools_hex.png" align="right" width="130" alt="methyltools logo"/>
 
 ## Description ##
 This R package contains additional tools for the analysis of methylation data (Infinium HM-27K and HM-450K).
